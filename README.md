@@ -13,4 +13,23 @@ pip install hdf5storage
 ```
 pip install scikit-learn
 ```
+We highly recommend to use [_Docker_](https://www.docker.com/) to freeze the running experiments. We attach our docker build file for our experiments.
+
+## Run
+Please find the details of running configuration from *run.sh* 
+
+## Citation
+Please cite our work if you would like to use the code
+
+```
+@article{li2020scalable,
+  title={Scalable Variational Gaussian Process Regression Networks},
+  author={Li, Shibo and Xing, Wei and Kirby, Mike and Zhe, Shandian},
+  journal={arXiv preprint arXiv:2003.11489},
+  year={2020}
+}
+```
+
+## License
+SGPRN is released under the MIT License (refer to the LICENSE file for details)
 
