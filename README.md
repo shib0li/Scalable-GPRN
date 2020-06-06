@@ -13,7 +13,7 @@ pip install hdf5storage
 ```
 pip install scikit-learn
 ```
-We highly recommend to use [_Docker_](https://www.docker.com/) to freeze the running experiments. We attach our docker build file for our experiments.
+We highly recommend to use [_Docker_](https://www.docker.com/) to freeze the running experiments. We attach our docker build file.
 
 ## Run
 Please find the details of running configuration from *run.sh* 
