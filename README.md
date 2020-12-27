@@ -22,11 +22,19 @@ Please find the details of running configuration from *run.sh*
 Please cite our work if you would like to use the code
 
 ```
-@article{li2020scalable,
-  title={Scalable Variational Gaussian Process Regression Networks},
-  author={Li, Shibo and Xing, Wei and Kirby, Mike and Zhe, Shandian},
-  journal={arXiv preprint arXiv:2003.11489},
-  year={2020}
+@inproceedings{ijcai2020-340,
+  title     = {Scalable Gaussian Process Regression Networks},
+  author    = {Li, Shibo and Xing, Wei and Kirby, Robert M. and Zhe, Shandian},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  editor    = {Christian Bessiere},	
+  pages     = {2456--2462},
+  year      = {2020},
+  month     = {7},
+  note      = {Main track}
+  doi       = {10.24963/ijcai.2020/340},
+  url       = {https://doi.org/10.24963/ijcai.2020/340},
 }
 ```
 
