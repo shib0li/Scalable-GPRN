@@ -8,7 +8,7 @@
 * Fix the known issue when compute the trace term of the expectations over the log likelihood.
 * More stable and intuitive than previous version.
 
-```
+---
 
 This is the python implementation of the paper [_Scalable Variational Gaussian Process Regression Networks_](https://arxiv.org/abs/2003.11489). we propose a scalable variational inference algorithm for GPRN, which not only captures the abundant posterior dependencies but also is much more efficient for massive outputs. Please refer our paper for more details.
 
