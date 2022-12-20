@@ -1,1 +1,11 @@
-results
+.ipynb
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+*.pyc
+.Trash-0
+__tmp__
+__res__
+__log__
+neural-flows-experiments
+baselines
