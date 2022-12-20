@@ -4,7 +4,7 @@ This is the python implementation of the paper [_Scalable Variational Gaussian P
 
 If you have any questions, please email me at shibo 'at' cs.utah.edu, or create an issue on github. The implementation only contains the [_Jura_](https://rdrr.io/cran/gstat/man/jura.html) example. If you are interested about other datasets presented in our paper, please contact our data collaboratos.
 
-## System Requirement
+~~## System Requirement
 We tested our code with python 3.6 on Ubuntu 18.04. Our implementation relies on TensorFlow 1.15. Other packages include scikit-learn for data standarlization and hdf5stroage for saving the results to mat file. Please use pip or conda to install those dependencies. 
 
 ```
@@ -17,6 +17,7 @@ We highly recommend to use [_Docker_](https://www.docker.com/) to freeze the run
 
 ## Run
 Please find the details of running configuration from *run.sh* 
+~~
 
 ## Citation
 Please cite our work if you would like to use the code
